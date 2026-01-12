@@ -1,0 +1,13 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+.env
+
+# Ignore model files (optional, add if you save .h5 later)
+# *.h5
+# *.keras
